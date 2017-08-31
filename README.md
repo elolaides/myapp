@@ -2,6 +2,7 @@
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
+I am using this as a means of improving my skill set.
 
 Things you may want to cover:
 
